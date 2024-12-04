@@ -86,7 +86,7 @@ Open a browser and go to the URL "http://localhost/ecommerce/".
 ![image](https://github.com/user-attachments/assets/f7d4e27c-4302-41a7-afb5-1161d356d6b0)
 
 
-### The full documentation for the E-Commerce Website In PHP is available at: ⬇️⬇️⬇️
+### The full documentation for the E-Commerce Website in PHP is available at: ⬇️⬇️⬇️
 
 https://itsourcecode.com/free-projects/php-project/e-commerce-website-in-php-with-source-code/
 
